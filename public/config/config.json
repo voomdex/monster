@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xd4dB2Ec6948927C7eEF1f8B4c3aFbAa61Cde41eC",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd4db2ec6948927c7eef1f8b4c3afbaa61cde41ec",
+  "CONTRACT_ADDRESS": "0x39e46744FB74f877adaeDF9e08DA1A1895B342a7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x39e46744fb74f877adaedf9e08da1a1895b342a7",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
-  "NFT_NAME": "Monster Zi",
-  "SYMBOL": "MZINFT",
-  "MAX_SUPPLY": 21,
+  "NFT_NAME": "2Chance Punks",
+  "SYMBOL": "CPUNKS",
+  "MAX_SUPPLY": 992,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 1,
+  "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/monster-jiheebd1bn",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
   "SHOW_BACKGROUND": true
 }
